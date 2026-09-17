@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "calculadoraX",
+    "name": "JogoDado",
     "slug": "calculadoraX",
     "owner": "luc4zzs-team",
     "version": "1.0.0",
@@ -39,7 +39,11 @@
             "backgroundColor": "#000000"
           }
         }
-      ]
+      ],
+      "expo-font",
+      "expo-image",
+      "expo-status-bar",
+      "expo-web-browser"
     ],
     "experiments": {
       "typedRoutes": true,
